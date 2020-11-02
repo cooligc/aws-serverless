@@ -1,0 +1,6 @@
+{
+  "name" : $.input.json("$.name"),
+  "eid" : $.input.json("$.eid"),
+  "dept" : $.input.json("$.dept"),
+  "location" : $.input.json("$.location"),
+}
